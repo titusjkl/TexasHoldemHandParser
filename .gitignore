@@ -1,0 +1,9 @@
+temp.py
+timeit_regex_find.py
+
+*.json
+*.txt
+*.csv
+
+jsons/*
+logs/*
