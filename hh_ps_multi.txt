@@ -1,0 +1,252 @@
+PokerStars Hand #238163801675:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/23 5:50:14 ET
+Table 'Aeolia II' 6-max Seat #5 is the button
+Seat 1: 1994337 ($1.84 in chips)
+Seat 2: Dokkedal ($2 in chips)
+Seat 3: benjr1612 ($2.84 in chips)
+Seat 4: shelley90 ($2 in chips)
+Seat 5: Skljar ($2.81 in chips)
+Seat 6: Hofman485 ($2.64 in chips)
+Hofman485: posts small blind $0.01
+1994337: posts big blind $0.02
+*** HOLE CARDS ***
+Dokkedal: raises $0.04 to $0.06
+benjr1612: calls $0.06
+shelley90: calls $0.06
+Skljar: folds
+Hofman485: folds
+1994337: calls $0.04
+*** FLOP *** [Ad 6d Kh]
+1994337: checks
+Dokkedal: checks
+benjr1612: checks
+shelley90: checks
+*** TURN *** [Ad 6d Kh] [3d]
+1994337: checks
+Dokkedal: checks
+benjr1612: checks
+shelley90: checks
+*** RIVER *** [Ad 6d Kh 3d] [4h]
+1994337: checks
+Dokkedal: bets $0.20
+benjr1612: folds
+shelley90: folds
+1994337: calls $0.20
+*** SHOW DOWN ***
+Dokkedal: shows [7h 5h] (a straight, Three to Seven)
+1994337: mucks hand
+Dokkedal collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02
+Board [Ad 6d Kh 3d 4h]
+Seat 1: 1994337 (big blind) mucked
+Seat 2: Dokkedal showed [7h 5h] and won ($0.63) with a straight, Three to Seven
+Seat 3: benjr1612 folded on the River
+Seat 4: shelley90 folded on the River
+Seat 5: Skljar (button) folded before Flop (didn't bet)
+Seat 6: Hofman485 (small blind) folded before Flop
+
+
+PokerStars Hand #238163813704:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/23 5:51:32 ET
+Table 'Aeolia II' 6-max Seat #6 is the button
+Seat 1: 1994337 ($1.58 in chips)
+Seat 2: Dokkedal ($2.37 in chips)
+Seat 3: benjr1612 ($2.78 in chips)
+Seat 4: shelley90 ($2 in chips)
+Seat 5: Skljar ($2.81 in chips)
+Seat 6: Hofman485 ($2.63 in chips)
+1994337: posts small blind $0.01
+Dokkedal: posts big blind $0.02
+*** HOLE CARDS ***
+benjr1612: folds
+shelley90: folds
+Skljar: folds
+Hofman485: folds
+1994337: folds
+Uncalled bet ($0.01) returned to Dokkedal
+Dokkedal collected $0.02 from pot
+Dokkedal: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: 1994337 (small blind) folded before Flop
+Seat 2: Dokkedal (big blind) collected ($0.02)
+Seat 3: benjr1612 folded before Flop (didn't bet)
+Seat 4: shelley90 folded before Flop (didn't bet)
+Seat 5: Skljar folded before Flop (didn't bet)
+Seat 6: Hofman485 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #238163815533:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/23 5:51:44 ET
+Table 'Aeolia II' 6-max Seat #1 is the button
+Seat 1: 1994337 ($1.57 in chips)
+Seat 2: Dokkedal ($2.38 in chips)
+Seat 3: benjr1612 ($2.78 in chips)
+Seat 4: shelley90 ($2 in chips)
+Seat 5: Skljar ($2.81 in chips)
+Seat 6: Hofman485 ($2.63 in chips)
+Dokkedal: posts small blind $0.01
+benjr1612: posts big blind $0.02
+*** HOLE CARDS ***
+shelley90: folds
+Skljar: folds
+Hofman485: folds
+1994337: folds
+Dokkedal: folds
+Uncalled bet ($0.01) returned to benjr1612
+benjr1612 collected $0.02 from pot
+benjr1612: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: 1994337 (button) folded before Flop (didn't bet)
+Seat 2: Dokkedal (small blind) folded before Flop
+Seat 3: benjr1612 (big blind) collected ($0.02)
+Seat 4: shelley90 folded before Flop (didn't bet)
+Seat 5: Skljar folded before Flop (didn't bet)
+Seat 6: Hofman485 folded before Flop (didn't bet)
+
+
+PokerStars Hand #238163816809:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/23 5:51:53 ET
+Table 'Aeolia II' 6-max Seat #2 is the button
+Seat 1: 1994337 ($1.57 in chips)
+Seat 2: Dokkedal ($2.37 in chips)
+Seat 3: benjr1612 ($2.79 in chips)
+Seat 4: shelley90 ($2 in chips)
+Seat 5: Skljar ($2.81 in chips)
+Seat 6: Hofman485 ($2.63 in chips)
+benjr1612: posts small blind $0.01
+shelley90: posts big blind $0.02
+*** HOLE CARDS ***
+Skljar: calls $0.02
+Hofman485: folds
+1994337: raises $0.04 to $0.06
+Dokkedal: calls $0.06
+benjr1612: folds
+shelley90: folds
+Skljar: folds
+*** FLOP *** [Ac 9c 4d]
+1994337: bets $0.10
+Dokkedal: calls $0.10
+*** TURN *** [Ac 9c 4d] [8s]
+1994337: checks
+Dokkedal: bets $0.24
+1994337: folds
+Uncalled bet ($0.24) returned to Dokkedal
+Dokkedal collected $0.36 from pot
+Dokkedal: doesn't show hand
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01
+Board [Ac 9c 4d 8s]
+Seat 1: 1994337 folded on the Turn
+Seat 2: Dokkedal (button) collected ($0.36)
+Seat 3: benjr1612 (small blind) folded before Flop
+Seat 4: shelley90 (big blind) folded before Flop
+Seat 5: Skljar folded before Flop
+Seat 6: Hofman485 folded before Flop (didn't bet)
+
+
+PokerStars Hand #238163824875:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/23 5:52:44 ET
+Table 'Aeolia II' 6-max Seat #3 is the button
+Seat 1: 1994337 ($1.41 in chips)
+Seat 2: Dokkedal ($2.57 in chips)
+Seat 3: benjr1612 ($2.78 in chips)
+Seat 4: shelley90 ($2 in chips)
+Seat 5: Skljar ($2.79 in chips)
+Seat 6: Hofman485 ($2.63 in chips)
+shelley90: posts small blind $0.01
+Skljar: posts big blind $0.02
+*** HOLE CARDS ***
+Hofman485: folds
+1994337: raises $0.04 to $0.06
+Dokkedal: folds
+benjr1612: folds
+shelley90: raises $0.14 to $0.20
+Skljar: folds
+1994337: folds
+Uncalled bet ($0.14) returned to shelley90
+shelley90 collected $0.14 from pot
+shelley90: doesn't show hand
+*** SUMMARY ***
+Total pot $0.14 | Rake $0
+Seat 1: 1994337 folded before Flop
+Seat 2: Dokkedal folded before Flop (didn't bet)
+Seat 3: benjr1612 (button) folded before Flop (didn't bet)
+Seat 4: shelley90 (small blind) collected ($0.14)
+Seat 5: Skljar (big blind) folded before Flop
+Seat 6: Hofman485 folded before Flop (didn't bet)
+
+
+PokerStars Hand #238163828497:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/23 5:53:07 ET
+Table 'Aeolia II' 6-max Seat #4 is the button
+Seat 1: 1994337 ($1.35 in chips)
+Seat 2: Dokkedal ($2.57 in chips)
+Seat 3: benjr1612 ($2.78 in chips)
+Seat 4: shelley90 ($2.08 in chips)
+Seat 5: Skljar ($2.77 in chips)
+Seat 6: Hofman485 ($2.63 in chips)
+Skljar: posts small blind $0.01
+Hofman485: posts big blind $0.02
+*** HOLE CARDS ***
+1994337: folds
+Dokkedal: folds
+benjr1612: folds
+shelley90: raises $0.04 to $0.06
+Skljar: calls $0.05
+Hofman485: folds
+*** FLOP *** [Ks Th Ac]
+Skljar: bets $0.14
+shelley90: folds
+Uncalled bet ($0.14) returned to Skljar
+Skljar collected $0.14 from pot
+Skljar: doesn't show hand
+*** SUMMARY ***
+Total pot $0.14 | Rake $0
+Board [Ks Th Ac]
+Seat 1: 1994337 folded before Flop (didn't bet)
+Seat 2: Dokkedal folded before Flop (didn't bet)
+Seat 3: benjr1612 folded before Flop (didn't bet)
+Seat 4: shelley90 (button) folded on the Flop
+Seat 5: Skljar (small blind) collected ($0.14)
+Seat 6: Hofman485 (big blind) folded before Flop
+
+
+PokerStars Hand #238163833005:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/23 5:53:35 ET
+Table 'Aeolia II' 6-max Seat #5 is the button
+Seat 1: 1994337 ($1.35 in chips)
+Seat 2: Dokkedal ($2.57 in chips)
+Seat 3: benjr1612 ($2.78 in chips)
+Seat 4: shelley90 ($2.02 in chips)
+Seat 5: Skljar ($2.85 in chips)
+Seat 6: Hofman485 ($2.61 in chips)
+Hofman485: posts small blind $0.01
+1994337: posts big blind $0.02
+*** HOLE CARDS ***
+Dokkedal: folds
+benjr1612: raises $0.04 to $0.06
+shelley90: folds
+Skljar: folds
+Hofman485: folds
+1994337: calls $0.04
+*** FLOP *** [7h Jd Kc]
+1994337: checks
+benjr1612: bets $0.08
+1994337: calls $0.08
+*** TURN *** [7h Jd Kc] [8h]
+1994337: checks
+benjr1612: checks
+*** RIVER *** [7h Jd Kc 8h] [3h]
+1994337: checks
+benjr1612: checks
+*** SHOW DOWN ***
+1994337: shows [Qd Jc] (a pair of Jacks)
+benjr1612: mucks hand
+1994337 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [7h Jd Kc 8h 3h]
+Seat 1: 1994337 (big blind) showed [Qd Jc] and won ($0.28) with a pair of Jacks
+Seat 2: Dokkedal folded before Flop (didn't bet)
+Seat 3: benjr1612 mucked
+Seat 4: shelley90 folded before Flop (didn't bet)
+Seat 5: Skljar (button) folded before Flop (didn't bet)
+Seat 6: Hofman485 (small blind) folded before Flop
+
+

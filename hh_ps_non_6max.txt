@@ -1,0 +1,49 @@
+PokerStars Hand #233821716506:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/06 4:17:25 ET
+Table 'Abetti III' 6-max Seat #3 is the button
+Seat 1: Tuxopek ($1.07 in chips)
+Seat 3: waser17 ($0.85 in chips)
+Seat 4: ANANATOR ($2.01 in chips)
+Seat 5: Fishermen877 ($2 in chips)
+Seat 6: PassionEternity ($2.21 in chips)
+ANANATOR: posts small blind $0.01
+Fishermen877: posts big blind $0.02
+*** HOLE CARDS ***
+PassionEternity: folds
+Tuxopek: folds
+waser17: folds
+ANANATOR: folds
+Uncalled bet ($0.01) returned to Fishermen877
+Fishermen877 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Tuxopek folded before Flop (didn't bet)
+Seat 3: waser17 (button) folded before Flop (didn't bet)
+Seat 4: ANANATOR (small blind) folded before Flop
+Seat 5: Fishermen877 (big blind) collected ($0.02)
+Seat 6: PassionEternity folded before Flop (didn't bet)
+
+
+PokerStars Hand #233821716506:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/06 4:17:25 ET
+Table 'Abetti III' 6-max Seat #3 is the button
+Seat 1: Tuxopek ($1.07 in chips)
+Seat 3: waser17 ($0.85 in chips)
+Seat 4: ANANATOR ($2.01 in chips)
+Seat 5: Fishermen877 ($2 in chips)
+Seat 6: PassionEternity ($2.21 in chips)
+ANANATOR: posts small blind $0.01
+Fishermen877: posts big blind $0.02
+*** HOLE CARDS ***
+PassionEternity: folds
+Tuxopek: folds
+waser17: folds
+ANANATOR: folds
+Uncalled bet ($0.01) returned to Fishermen877
+Fishermen877 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Tuxopek folded before Flop (didn't bet)
+Seat 3: waser17 (button) folded before Flop (didn't bet)
+Seat 4: ANANATOR (small blind) folded before Flop
+Seat 5: Fishermen877 (big blind) collected ($0.02)
+Seat 6: PassionEternity folded before Flop (didn't bet)
+

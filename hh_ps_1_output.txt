@@ -1,0 +1,46 @@
+PokerStars Hand #238163801675:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/23 5:50:14 ET
+Table 'Aeolia II' 6-max Seat #5 is the button
+Seat 1: BB ($1.84 in chips)
+Seat 2: UTG ($2 in chips)
+Seat 3: HJ ($2.84 in chips)
+Seat 4: CO ($2 in chips)
+Seat 5: BTN ($2.81 in chips)
+Seat 6: SB ($2.64 in chips)
+SB: posts small blind $0.01
+BB: posts big blind $0.02
+*** HOLE CARDS ***
+UTG: raises $0.04 to $0.06
+HJ: calls $0.06
+CO: calls $0.06
+BTN: folds
+SB: folds
+BB: calls $0.04
+*** FLOP *** [Ad 6d Kh]
+BB: checks
+UTG: checks
+HJ: checks
+CO: checks
+*** TURN *** [Ad 6d Kh] [3d]
+BB: checks
+UTG: checks
+HJ: checks
+CO: checks
+*** RIVER *** [Ad 6d Kh 3d] [4h]
+BB: checks
+UTG: bets $0.20
+HJ: folds
+CO: folds
+BB: calls $0.20
+*** SHOW DOWN ***
+UTG: shows [7h 5h] (a straight, Three to Seven)
+BB: mucks hand
+UTG collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02
+Board [Ad 6d Kh 3d 4h]
+Seat 1: BB (big blind) mucked
+Seat 2: UTG showed [7h 5h] and won ($0.63) with a straight, Three to Seven
+Seat 3: HJ folded on the River
+Seat 4: CO folded on the River
+Seat 5: BTN (button) folded before Flop (didn't bet)
+Seat 6: SB (small blind) folded before Flop
